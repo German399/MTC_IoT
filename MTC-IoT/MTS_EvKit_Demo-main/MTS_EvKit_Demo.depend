@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1576240253 source:d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\at_cmd_support.c
+	"at_cmd_support.h"
+
+1576173597 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\at_cmd_support.h
+	"stm32l1xx.h"
+	"uart_api.h"
+	"stdio.h"
+	"string.h"
+
+1570379769 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\inc\stm32l1xx.h
+	"core_cm3.h"
+	"system_stm32l1xx.h"
+	<stdint.h>
+	"stm32l1xx_conf.h"
+
+1570379769 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1570379769 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1570379769 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1570379769 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\inc\system_stm32l1xx.h
+
+1575109357 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\uart_api.h
+	"stm32l1xx.h"
+	"board_pins.h"
+	"port_macros.h"
+
+1576239663 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\board_pins.h
+
+1572608301 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\port_macros.h
+
+1570881847 source:d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\board_drivers.c
+	"board_drivers.h"
+
+1570877585 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\board_drivers.h
+	"stm32l1xx.h"
+	"board_pins.h"
+	"port_macros.h"
+	"uart_api.h"
+	"i2c_api.h"
+	"stdio.h"
+	"tmp75_driver.h"
+	"lis3dh_driver.h"
+	"at_cmd_support.h"
+
+1572608301 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\i2c_api.h
+	"stm32l1xx.h"
+
+1572608301 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\tmp75_driver.h
+	"i2c_api.h"
+
+1575107511 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\lis3dh_driver.h
+	"i2c_api.h"
+	"stdint.h"
+
+1572608301 source:d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\i2c_api.c
+	"i2c_api.h"
+
+1572608301 source:d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\lis3dh_driver.c
+	"lis3dh_driver.h"
+
+1572608301 source:d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\tmp75_driver.c
+	"tmp75_driver.h"
+
+1572616745 source:d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\uart_api.c
+	"uart_api.h"
+
+1573993695 source:d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\src\main.c
+	"stm32l1xx.h"
+	"board_support_api.h"
+	"string.h"
+
+1570379769 source:d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\src\startup_stm32l1xx_hd.s
+
+1570379769 source:d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\src\system_stm32l1xx.c
+	"stm32l1xx.h"
+
+1575122047 source:d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\awu_api.c
+	"awu_api.h"
+
+1575122112 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\awu_api.h
+	"stm32l1xx.h"
+
+1576241931 source:d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\board_support_api.c
+	"board_support_api.h"
+
+1576258490 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\board_support_api.h
+	"stm32l1xx.h"
+	"board_pins.h"
+	"port_macros.h"
+	"uart_api.h"
+	"i2c_api.h"
+	"stdio.h"
+	"tmp75_driver.h"
+	"lis3dh_driver.h"
+	"at_cmd_support.h"
+	"awu_api.h"
+	"coap_essentials.h"
+	"gnss_support.h"
+
+1575919251 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\coap\coap_essentials.h
+	"stdint.h"
+	"string.h"
+
+1575919603 source:d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\coap\coap_essentials.c
+	"coap_essentials.h"
+
+1576244069 d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\gnss_support.h
+	"stm32l1xx.h"
+
+1576243885 source:d:\elworks\projects\mts_evkit_fw\mts_evkit_demo\board_support\gnss_support.c
+	"gnss_support.h"
+

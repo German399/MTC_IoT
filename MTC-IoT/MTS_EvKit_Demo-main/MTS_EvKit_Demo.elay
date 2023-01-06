@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBitz_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="board_support\at_cmd_support.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12119" topLine="423" />
+		</Cursor>
+	</File>
+	<File name="board_support\at_cmd_support.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3226" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="board_support\awu_api.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2298" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="board_support\awu_api.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1317" topLine="13" />
+		</Cursor>
+	</File>
+	<File name="board_support\board_pins.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2244" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="board_support\board_support_api.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10499" topLine="340" />
+		</Cursor>
+	</File>
+	<File name="board_support\board_support_api.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="767" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="board_support\ds1721_driver.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="168" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="board_support\ds1721_driver.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="454" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="board_support\gnss_support.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="939" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="board_support\gnss_support.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="266" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="board_support\i2c_api.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5500" topLine="236" />
+		</Cursor>
+	</File>
+	<File name="board_support\i2c_api.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6309" topLine="50" />
+		</Cursor>
+	</File>
+	<File name="board_support\lis3dh_driver.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1872" topLine="53" />
+		</Cursor>
+	</File>
+	<File name="board_support\lis3dh_driver.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2477" topLine="64" />
+		</Cursor>
+	</File>
+	<File name="board_support\menu_engine.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="841" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="board_support\menu_engine.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="570" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="board_support\menu_handlers.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="33263" topLine="1041" />
+		</Cursor>
+	</File>
+	<File name="board_support\menu_handlers.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="358" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="board_support\port_macros.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="748" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="board_support\tmp75_driver.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="478" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="board_support\tmp75_driver.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="310" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="board_support\uart_api.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="686" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="board_support\uart_api.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3569" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="cmsis\core_cmFunc.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8700" topLine="311" />
+		</Cursor>
+	</File>
+	<File name="cmsis\core_cmInstr.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8282" topLine="271" />
+		</Cursor>
+	</File>
+	<File name="coap\coap_essentials.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7155" topLine="217" />
+		</Cursor>
+	</File>
+	<File name="coap\coap_essentials.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10204" topLine="165" />
+		</Cursor>
+	</File>
+	<File name="inc\stm32l1xx.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="144753" topLine="2037" />
+		</Cursor>
+	</File>
+	<File name="src\main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19119" topLine="162" />
+		</Cursor>
+	</File>
+	<File name="src\startup_stm32l1xx_hd.S" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5501" topLine="108" />
+		</Cursor>
+	</File>
+</EmBitz_layout_file>
